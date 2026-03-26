@@ -1,0 +1,8 @@
+{
+  "name": "LTB LIVE SPORTS",
+  "description": "Your #1 destination for live football scores, real-time updates, fan interaction, and match predictors.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
