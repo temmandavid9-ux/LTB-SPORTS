@@ -1,6 +1,6 @@
 {
   "name": "LTB Live Sports",
-  "short_name": "LTB Live",
+  "short_name": "LTB sports",
   "description": "Real-time football scores, highlights, and sports tracking with LTB Online Shopping.",
   "start_url": "/",
   "display": "standalone",
@@ -8,14 +8,14 @@
   "theme_color": "#ef4444",
   "icons": [
     {
-      "src": "https://picsum.photos/seed/football192/192/192",
+      "src": "https://image2url.com/r2/default/images/1775655909042-0397d866-2a91-44d9-87ac-e0c7bb608c50.jpeg",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://picsum.photos/seed/football512/512/512",
-      "sizes": "512x512",
+      "src": "https://image2url.com/r2/default/images/1775655909042-0397d866-2a91-44d9-87ac-e0c7bb608c50.jpeg",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     }
