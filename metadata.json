@@ -1,0 +1,8 @@
+{
+  "name": "LTB SPORTS",
+  "description": "Your #1 destination for football match updates, real-time highlights, fan interaction, and the LTB Online Free Shopping program.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
