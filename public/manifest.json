@@ -8,16 +8,16 @@
   "theme_color": "#ef4444",
   "icons": [
     {
-      "src": "icons/logo/public/icons/WhatsApp Image 2026-04-08 at 2.20.53 PM.jpeg",
-      "sizes": "192x192",
+      "src": "/icons/WhatsApp%20Image%202026-04-08%20at%202.20.53%20PM.jpeg",
+      "sizes": "192x192 512x512",
       "type": "image/jpeg",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "icons/logo/public/icons/WhatsApp Image 2026-04-08 at 2.20.53 PM.jpeg",
-      "sizes": "192x192",
-    "type": "image/jpeg",
-      "purpose": "any maskable"
+      "src": "/icons/WhatsApp%20Image%202026-04-08%20at%202.20.53%20PM.jpeg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable"
     }
   ]
-} 
+}
